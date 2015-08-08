@@ -1,0 +1,17 @@
+{
+  "name": "david2m/php-socket",
+  "description": "OOP abstraction over the low-level PHP socket_* functions.",
+  "minimum-stability": "stable",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "David Twomey",
+      "email": "david2m@hotmail.co.uk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "David2M\\PHPSocket\\": "lib/"
+    }
+  }
+}
